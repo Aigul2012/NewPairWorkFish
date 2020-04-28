@@ -1,6 +1,5 @@
 import com.epam.Aquarium;
 import com.epam.Fish;
-
 import java.util.Scanner;
 
 public class Main {
